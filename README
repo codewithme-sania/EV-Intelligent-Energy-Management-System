@@ -1,0 +1,65 @@
+# Intelligent Energy Management System for Electric Vehicles
+
+## Overview
+
+This project explores an intelligent energy management approach for electric vehicles using MATLAB. It focuses on the challenge of managing electrical energy demand and making effective use of the available battery energy.
+
+## Problem Statement
+
+Electric vehicles experience changing power demands under different operating conditions. Managing energy efficiently is important for battery utilization and vehicle operation. This project investigates a MATLAB-based approach to this challenge.
+
+## Objectives
+
+* Study energy management challenges in electric vehicles.
+* Explore battery energy utilization and power demand.
+* Develop an energy management approach using MATLAB.
+* Evaluate system behavior through testing and simulation, where implemented.
+* Document the approach, implementation, and findings.
+
+## Tools and Technologies
+
+* MATLAB
+* Simulink, if used in the final implementation
+
+## Proposed System
+
+The proposed system investigates how energy demand can be monitored and managed according to defined operating conditions.
+
+The detailed control strategy and system architecture will be documented according to the actual implementation.
+
+## Methodology
+
+1. Define the EV energy management problem.
+2. Identify relevant system inputs and outputs.
+3. Design the proposed energy management logic.
+4. Implement the approach in MATLAB.
+5. Test the implementation using appropriate scenarios.
+6. Analyze verified results and document limitations.
+
+## Project Implementation Status
+
+The repository will contain available project screenshots, documentation, and demonstration materials.
+
+MATLAB source files, Simulink models, and simulation results will be included when available and verified.
+
+## Demonstration Video
+
+The final demonstration video link will be added here.
+
+## Results and Discussion
+
+Verified outputs and observations will be documented after testing. Expected benefits will be distinguished from measured results.
+
+## Future Scope
+
+* Evaluate energy management under different operating conditions.
+* Investigate suitable control or optimization strategies.
+* Extend testing using appropriate EV models and datasets.
+
+## Author
+
+**Name:** Sania
+
+**Institution:** Kishkinda University, if applicable
+
+**Challenge:** REVA Student Challenge
